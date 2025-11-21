@@ -7,8 +7,10 @@ Specializing in building fast, scalable, and modern web applications using **Nex
 
 ## **🛠️ Skills**
 
-**Frontend:** Next.js, React, TypeScript, JavaScript, HTML, Tailwind CSS  
-**Backend:** Node.js, Express, MongoDB, Firebase, Redis, Medusa.js  
+**Frontend:** React, TypeScript, JavaScript, HTML, Tailwind CSS  
+**Backend:** Node.js, Express
+**Framework:** Next.js, Medusa.js 
+**Database:** MongoDB, Firebase, Postgres, SQL  
 **Tools:** Docker, Git, REST APIs  
 **Languages:** Python, C++, Java  
 
