@@ -1,6 +1,7 @@
 **👋 Hi, I'm Ujjawal**
-Frontend-Focused Full Stack Developer
 
+
+Frontend-Focused Full Stack Developer
 Specializing in building fast, scalable, and modern web applications using Next.js, React, and TypeScript.
 
 **🔥 About Me**
