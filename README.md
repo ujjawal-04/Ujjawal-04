@@ -1,44 +1,36 @@
 👋 Hi, I'm Ujjawal
-🚀 Frontend-Focused Full Stack Developer
+Frontend-Focused Full Stack Developer
 
-Crafting scalable, performant, and delightful web experiences with modern JavaScript tools.
+Specializing in building fast, scalable, and modern web applications using Next.js, React, and TypeScript.
 
-🔥 What I’m Currently Doing
+🔥 About Me
 
-Building production-ready UIs using Next.js, React, Tailwind & TypeScript
+I work across the full stack with experience in Next.js, React, Node.js, Express, MongoDB, Firebase, Redis, and Medusa.js (Headless Commerce).
+I enjoy creating clean UI/UX, scalable architectures, and high-performance applications.
 
-Working with backend ecosystems like Node.js, Express, MongoDB, Firebase, Redis
+🛠️ Skills
 
-Shipping features with Medusa.js (Headless Commerce) & modern API integrations
+Frontend: Next.js, React, TypeScript, JavaScript, HTML, Tailwind CSS
+Backend: Node.js, Express, MongoDB, Firebase, Redis, Medusa.js
+Tools: Docker, Git, REST APIs
+Languages: Python, C++, Java
 
-Improving DX with clean architecture & reusable component systems
+🌍 Connect with Me
 
-🎯 What I’m Learning
+LinkedIn: https://www.linkedin.com/in/ujjawal-5b86a8291/
 
-Medusa.js advanced workflows (commerce modules, backend extensions)
+GitHub: https://github.com/ujjawal-04
 
-Cloud-native deployment workflows (Docker, CI/CD)
+Portfolio: https://ujjawalportfolio.vercel.app/
 
-Performance optimization & scalable UI patterns
+🎯 Focus Areas
 
-🌐 Connect With Me
-<p align="left"> <a href="https://www.linkedin.com/in/ujjawal-5b86a8291/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a> <a href="https://github.com/ujjawal-04" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40"/></a> <a href="https://ujjawalportfolio.vercel.app/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" height="40"/></a> </p>
-🛠️ Languages & Tools
-<p align="left"> <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" height="45"/> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,redis,docker" height="45"/> <img src="https://skillicons.dev/icons?i=cpp,java,python" height="45"/> <img src="https://skillicons.dev/icons?i=medusa" height="45"/> </p>
-💡 Areas I Love Working In
+Modern Frontend Engineering
 
-Frontend Engineering
+Full Stack Development
 
-Full Stack Development (MERN + Medusa.js)
+API Integrations & Scalable Architecture
 
-Commerce Integrations
+Headless Commerce (Medusa.js)
 
-UI/UX & Design Systems
-
-API Integrations
-
-Scalable Web Architectures
-
-📈 My Goal
-
-To master scalable full-stack development with Next.js, Medusa.js, system design, and cloud-first engineering.
+Performance & Optimization
