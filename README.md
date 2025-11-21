@@ -19,7 +19,7 @@ Specializing in building fast, scalable, and modern web applications using **Nex
 
 ## **🌍 Connect with Me**
 
-**LinkedIn:** https://www.linkedin.com/in/its-ujjawal
+**LinkedIn:** https://www.linkedin.com/in/its-ujjawal                                                                                                                                      
 **Portfolio:** https://ujjawalportfolio.vercel.app  
 
 ---
