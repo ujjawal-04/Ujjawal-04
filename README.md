@@ -10,6 +10,7 @@ Specializing in building fast, scalable, and modern web applications using **Nex
 **Frontend:** React, TypeScript, JavaScript, HTML, Tailwind CSS  
 **Backend:** Node.js, Express                                                                                                                                              
 **Framework:** Next.js, Medusa.js 
+
 **Database:** MongoDB, Firebase, Postgres, SQL  
 **Tools:** Docker, Git, REST APIs  
 **Languages:** Python, C++, Java  
