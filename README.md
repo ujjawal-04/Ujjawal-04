@@ -1,6 +1,6 @@
-# **👋 Hi, I'm Ujjawal**
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" /> **Hi, I'm Ujjawal**
 
-### **Frontend-Focused Full Stack Developer**  
+### **Frontend-Focused Full Stack Developer**
 Specializing in building fast, scalable, and modern web applications using **Next.js** and **TypeScript**.
 
 ---
@@ -8,8 +8,8 @@ Specializing in building fast, scalable, and modern web applications using **Nex
 ## **🛠️ Skills**
 
 **Frontend:** React, TypeScript, JavaScript, HTML, Tailwind CSS  
-**Backend:** Node.js, Express                                                                                                                                              
-**Framework:** Next.js, Medusa.js 
+**Backend:** Node.js, Express  
+**Framework:** Next.js, Medusa.js  
 
 **Database:** MongoDB, Firebase, Postgres, SQL  
 **Tools:** Docker, Git, REST APIs  
@@ -19,7 +19,7 @@ Specializing in building fast, scalable, and modern web applications using **Nex
 
 ## **🌍 Connect with Me**
 
-**LinkedIn:** https://www.linkedin.com/in/its-ujjawal                                                                                                                                      
+**LinkedIn:** https://www.linkedin.com/in/its-ujjawal  
 **Portfolio:** https://ujjawalportfolio.vercel.app  
 
 ---
