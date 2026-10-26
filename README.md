@@ -92,10 +92,7 @@
   <img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688" alt="REST APIs" />
   <img src="https://img.shields.io/badge/WebSockets-0D1117?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
   <img src="https://img.shields.io/badge/Authentication-0D1117?style=for-the-badge&logo=auth0&logoColor=EB5424" alt="Authentication" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/API%20Integration-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="API Integration" />
+   <img src="https://img.shields.io/badge/API%20Integration-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="API Integration" />
   <img src="https://img.shields.io/badge/Testing-0D1117?style=for-the-badge&logo=jest&logoColor=C21325" alt="Testing" />
   <img src="https://img.shields.io/badge/Technical%20Documentation-0D1117?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Technical Documentation" />
 </p>
