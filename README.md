@@ -1,33 +1,131 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" /> **Hi, I'm Ujjawal**
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving hand" />
+  Hi, I'm Ujjawal
+</h1>
 
-### **Frontend-Focused Full Stack Developer**
-Specializing in building fast, scalable, and modern web applications using **Next.js** and **TypeScript**.
+<h3 align="center">Software Engineer | Full-Stack Developer</h3>
 
----
-
-## **🛠️ Skills**
-
-**Frontend:** React, TypeScript, JavaScript, HTML, Tailwind CSS  
-**Backend:** Node.js, Express  
-**Framework:** Next.js, Medusa.js  
-
-**Database:** MongoDB, Firebase, Postgres, SQL  
-**Tools:** Docker, Git, REST APIs  
-**Languages:** Python, C++, Java  
+<p align="center">
+  Building reliable, production-ready applications and backend systems.
+</p>
 
 ---
 
-## **🌍 Connect with Me**
+<h2>🎯 What I Do</h2>
 
-**LinkedIn:** https://www.linkedin.com/in/its-ujjawal  
-**Portfolio:** https://ujjawalportfolio.vercel.app  
+<p align="center">
+  I design, develop, and deploy full-stack applications with a focus on
+  clean architecture, scalability, and real-world impact.
+</p>
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <h3>💻 Full-Stack Development</h3>
+      <p>Building modern web applications using Next.js, React, and NestJS.</p>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h3>⚙️ Backend Engineering</h3>
+      <p>Developing REST APIs, authentication systems, and business logic.</p>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h3>🗄️ Database & Infrastructure</h3>
+      <p>Working with PostgreSQL, MongoDB, Redis, and Prisma.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <h3>🔌 API Integration</h3>
+      <p>Connecting third-party services and building real-time features.</p>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h3>☁️ Deployment & DevOps</h3>
+      <p>Working with Docker, cloud platforms, and deployment workflows.</p>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h3>🧩 Problem Solving</h3>
+      <p>Turning real-world requirements into reliable, maintainable solutions.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## **🎯 Focus Areas**
+<h2>🛠️ Tech Stack</h2>
 
-- Modern Frontend Engineering  
-- Full Stack Development  
-- API Integrations & Scalable Architecture  
-- Headless Commerce (Medusa.js)  
-- Performance & Optimization  
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <h3>💻 Languages</h3>
+      <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts&theme=dark" alt="Languages" />
+    </td>
+    <td align="center" width="300">
+      <h3>🎨 Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" alt="Frontend" />
+    </td>
+    <td align="center" width="300">
+      <h3>⚙️ Backend</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" alt="Backend" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="300">
+      <h3>🗄️ Databases & ORM</h3>
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma&theme=dark" alt="Databases and ORM" />
+    </td>
+    <td align="center" width="300">
+      <h3>☁️ Cloud & DevOps</h3>
+      <img src="https://skillicons.dev/icons?i=aws,docker&theme=dark" alt="Cloud and DevOps" />
+    </td>
+    <td align="center" width="300">
+      <h3>🛠️ Developer Tools</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" alt="Developer Tools" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<h3>🔗 Other Skills</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/WebSockets-0D1117?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/Authentication-0D1117?style=for-the-badge&logo=auth0&logoColor=EB5424" alt="Authentication" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/API%20Integration-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="API Integration" />
+  <img src="https://img.shields.io/badge/Testing-0D1117?style=for-the-badge&logo=jest&logoColor=C21325" alt="Testing" />
+  <img src="https://img.shields.io/badge/Technical%20Documentation-0D1117?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Technical Documentation" />
+</p>
+
+<h2>📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ujjawal-04&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" alt="GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjawal-04&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most Used Languages" />
+</p>
+
+
+---
+
+<h2>🤝 Let's Connect</h2>
+
+<p align="center">
+  <a href="mailto:ujjawal0406@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/its-ujjawal/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://ujjawal.site">
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="40" height="40" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Building, learning, and engineering better solutions every day.</i>
+</p>
