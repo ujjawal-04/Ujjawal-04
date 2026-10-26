@@ -103,8 +103,8 @@
 <h2>📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ujjawal-04&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" alt="GitHub Statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjawal-04&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most Used Languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ujjawal-04&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" alt="GitHub Statistics" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjawal-04&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most Used Languages" />
 </p>
 
 
@@ -114,15 +114,15 @@
 
 <p align="center">
   <a href="mailto:ujjawal0406@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="30" alt="Email" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/its-ujjawal/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="30" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://ujjawal.site">
-    <img src="https://img.icons8.com/fluency/48/domain.png" width="40" height="40" alt="Portfolio" />
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="40" height="30" alt="Portfolio" />
   </a>
 </p>
 
