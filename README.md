@@ -21,29 +21,29 @@
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
-      <h3>💻 Full-Stack Development</h3>
+      <h4>💻 Full-Stack Development</h4>
       <p>Building modern web applications using Next.js, React, and NestJS.</p>
     </td>
     <td align="center" valign="top" width="33%">
-      <h3>⚙️ Backend Engineering</h3>
+      <h4>⚙️ Backend Engineering</h4>
       <p>Developing REST APIs, authentication systems, and business logic.</p>
     </td>
     <td align="center" valign="top" width="33%">
-      <h3>🗄️ Database & Infrastructure</h3>
+      <h4>🗄️ Database & Infrastructure</h4>
       <p>Working with PostgreSQL, MongoDB, Redis, and Prisma.</p>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
-      <h3>🔌 API Integration</h3>
+      <h4>🔌 API Integration</h4>
       <p>Connecting third-party services and building real-time features.</p>
     </td>
     <td align="center" valign="top" width="33%">
-      <h3>☁️ Deployment & DevOps</h3>
+      <h4>☁️ Deployment & DevOps</h4>
       <p>Working with Docker, cloud platforms, and deployment workflows.</p>
     </td>
     <td align="center" valign="top" width="33%">
-      <h3>🧩 Problem Solving</h3>
+      <h4>🧩 Problem Solving</h4>
       <p>Turning real-world requirements into reliable, maintainable solutions.</p>
     </td>
   </tr>
@@ -56,29 +56,29 @@
 <table align="center">
   <tr>
     <td align="center" width="300">
-      <h3>💻 Languages</h3>
+      <h4>💻 Languages</h4>
       <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts&theme=dark" alt="Languages" />
     </td>
     <td align="center" width="300">
-      <h3>🎨 Frontend</h3>
+      <h4>🎨 Frontend</h4>
       <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" alt="Frontend" />
     </td>
     <td align="center" width="300">
-      <h3>⚙️ Backend</h3>
+      <h4>⚙️ Backend</h4>
       <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" alt="Backend" />
     </td>
   </tr>
   <tr>
     <td align="center" width="300">
-      <h3>🗄️ Databases & ORM</h3>
+      <h4>🗄️ Databases & ORM</h4>
       <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma&theme=dark" alt="Databases and ORM" />
     </td>
     <td align="center" width="300">
-      <h3>☁️ Cloud & DevOps</h3>
+      <h4>☁️ Cloud & DevOps</h4>
       <img src="https://skillicons.dev/icons?i=aws,docker&theme=dark" alt="Cloud and DevOps" />
     </td>
     <td align="center" width="300">
-      <h3>🛠️ Developer Tools</h3>
+      <h4>🛠️ Developer Tools</h4>
       <img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" alt="Developer Tools" />
     </td>
   </tr>
