@@ -20,29 +20,29 @@
 
 <table>
   <tr>
-    <td align="center" valign="top" width="33%">
+    <td align="center" width="15%">
       <h4>💻 Full-Stack Development</h4>
       <p>Building modern web applications using Next.js, React, and NestJS.</p>
     </td>
-    <td align="center" valign="top" width="33%">
+    <td align="center" width="15%">
       <h4>⚙️ Backend Engineering</h4>
       <p>Developing REST APIs, authentication systems, and business logic.</p>
     </td>
-    <td align="center" valign="top" width="33%">
+    <td align="center" width="15%">
       <h4>🗄️ Database & Infrastructure</h4>
       <p>Working with PostgreSQL, MongoDB, Redis, and Prisma.</p>
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="33%">
+    <td align="center" width="15%">
       <h4>🔌 API Integration</h4>
       <p>Connecting third-party services and building real-time features.</p>
     </td>
-    <td align="center" valign="top" width="33%">
+    <td align="center" width="15%">
       <h4>☁️ Deployment & DevOps</h4>
       <p>Working with Docker, cloud platforms, and deployment workflows.</p>
     </td>
-    <td align="center" valign="top" width="33%">
+    <td align="center" width="15%">
       <h4>🧩 Problem Solving</h4>
       <p>Turning real-world requirements into reliable, maintainable solutions.</p>
     </td>
