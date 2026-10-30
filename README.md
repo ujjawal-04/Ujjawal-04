@@ -97,9 +97,14 @@
 
 <h2>📊 GitHub Statistics</h2>
 
+
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ujjawal-04&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" alt="GitHub Statistics" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjawal-04&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most Used Languages" />
+  <img height="150"
+    src="https://github-stats-extended.vercel.app/api?username=ujjawal-04&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_rank=true"
+    alt="GitHub Statistics" />
+  <img height="150"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=ujjawal-04&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+    alt="Most Used Languages" />
 </p>
 
 
