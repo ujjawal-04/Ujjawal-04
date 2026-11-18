@@ -51,59 +51,6 @@
 
 ---
 
-<h2>🛠️ Tech Stack</h2>h2><h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving hand" />
-  Hi, I'm Ujjawal
-</h1>
-
-<h3 align="center">Software Engineer | Full-Stack Developer</h3>
-
-<p align="center">
-  Building reliable, production-ready applications and backend systems.
-</p>
-
----
-
-<h2>🎯 What I Do</h2>
-
-<p align="center">
-  I design, develop, and deploy full-stack applications with a focus on
-  clean architecture, scalability, and real-world impact.
-</p>
-
-<table>
-  <tr>
-    <td align="center" width="15%">
-      <h4>💻 Full-Stack Development</h4>
-      <p>Building modern web applications using Next.js, React, and NestJS.</p>
-    </td>
-    <td align="center" width="15%">
-      <h4>⚙️ Backend Engineering</h4>
-      <p>Developing REST APIs, authentication systems, and business logic.</p>
-    </td>
-    <td align="center" width="15%">
-      <h4>🗄️ Database & Infrastructure</h4>
-      <p>Working with PostgreSQL, MongoDB, Redis, and Prisma.</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="15%">
-      <h4>🔌 API Integration</h4>
-      <p>Connecting third-party services and building real-time features.</p>
-    </td>
-    <td align="center" width="15%">
-      <h4>☁️ Deployment & DevOps</h4>
-      <p>Working with Docker, cloud platforms, and deployment workflows.</p>
-    </td>
-    <td align="center" width="15%">
-      <h4>🧩 Problem Solving</h4>
-      <p>Turning real-world requirements into reliable, maintainable solutions.</p>
-    </td>
-  </tr>
-</table>
-
----
-
 <h2>🛠️ Tech Stack</h2>
 
 <div align="center">
@@ -120,7 +67,6 @@
 <img height="48" src="https://img.shields.io/badge/C%2B%2B-E6E8EB?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=E6E8EB" />
 <img height="48" src="https://img.shields.io/badge/JavaScript-E6E8EB?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=E6E8EB" />
 <img height="48" src="https://img.shields.io/badge/TypeScript-E6E8EB?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=E6E8EB" />
-<img height="48" src="https://img.shields.io/badge/SQL-E6E8EB?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=E6E8EB" />
 </p>
 
 </td>
@@ -146,7 +92,6 @@
 <h3>03 / BACKEND & DATA</h3>
 
 <p align="center">
-<img height="48" src="https://img.shields.io/badge/REST_APIs-FFFFFF?style=for-the-badge&logo=fastapi&logoColor=009688&labelColor=FFFFFF" />
 <img height="48" src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=FFFFFF" />
 <img height="48" src="https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=FFFFFF" />
 <img height="48" src="https://img.shields.io/badge/Prisma-FFFFFF?style=for-the-badge&logo=prisma&logoColor=2D3748&labelColor=FFFFFF" />
